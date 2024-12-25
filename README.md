@@ -100,6 +100,6 @@ import controlP5.*;
 
 ---
 ###실행 화면
-![개선한 알고리즘1](image/image00006.bmp)
-![개선한 알고리즘2](image/image00007.bmp)
+![개선한 알고리즘1](image/image00006.jpg)
+![개선한 알고리즘2](image/image00007.jpg)
 
