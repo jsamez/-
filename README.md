@@ -99,7 +99,8 @@ import controlP5.*;
 전체 코드는 [code 디렉토리](robot_control_application.pde)에서 확인할 수 있습니다.
 
 ---
-###실행 화면
+##실행 화면
+
 ![개선한 알고리즘1](image/image00006.jpg)
 ![개선한 알고리즘2](image/image00007.jpg)
 
