@@ -95,6 +95,6 @@ import controlP5.*;
     }
     ```
 
-전체 코드는 [code 디렉토리](./code)에서 확인할 수 있습니다.
+전체 코드는 [code 디렉토리](robot_control_application.pde)에서 확인할 수 있습니다.
 
 ---
